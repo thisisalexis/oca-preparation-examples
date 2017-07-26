@@ -1,0 +1,1 @@
+Project created to put different code snippets created during preparation for OCA exam
